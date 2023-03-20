@@ -1,2 +1,3 @@
-# rust-actix-sample
-Actix Web Framework for Rust
+# Rust Actix Sample
+
+Sample using the Actix Web Framework for Rust
